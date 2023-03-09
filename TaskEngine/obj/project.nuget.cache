@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlLdA00S8d8LAZ0jIqcN7DccH30TuT6Pe8smHEDe0f/Man6cgjvZHoeJGHabF5PedhXNlhqCYnwoEEOITtP9Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MoMoalin\\Desktop\\debugging\\TaskEngine\\TaskEngine\\TaskEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MoMoalin\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\MoMoalin\\.nuget\\packages\\guard.net\\3.0.0\\guard.net.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
